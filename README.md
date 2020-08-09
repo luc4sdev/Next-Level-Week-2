@@ -11,7 +11,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="![proffy](https://user-images.githubusercontent.com/62803721/89734650-bdc1bf80-da33-11ea-9a05-0a4cc3731dd5.png)" >
+  <img src="https://user-images.githubusercontent.com/62803721/89734650-bdc1bf80-da33-11ea-9a05-0a4cc3731dd5.png" >
 </p>
 
 ---
